@@ -1,2 +1,6 @@
 Jupyter notebook 
 Ctrl+enter to run all
+
+
+Anaconda:
+Always use Conda to insall library, not pip install, as pip  may crash
